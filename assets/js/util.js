@@ -450,6 +450,7 @@
 						});
 
 				})
+				
 				.on('reset', function(event) {
 
 					event.preventDefault();
